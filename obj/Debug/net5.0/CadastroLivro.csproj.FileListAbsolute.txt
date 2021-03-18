@@ -1,0 +1,16 @@
+C:\Users\Ivan\Library\CadastroLivro\bin\Debug\net5.0\CadastroLivro.exe
+C:\Users\Ivan\Library\CadastroLivro\bin\Debug\net5.0\CadastroLivro.deps.json
+C:\Users\Ivan\Library\CadastroLivro\bin\Debug\net5.0\CadastroLivro.runtimeconfig.json
+C:\Users\Ivan\Library\CadastroLivro\bin\Debug\net5.0\CadastroLivro.runtimeconfig.dev.json
+C:\Users\Ivan\Library\CadastroLivro\bin\Debug\net5.0\CadastroLivro.dll
+C:\Users\Ivan\Library\CadastroLivro\bin\Debug\net5.0\ref\CadastroLivro.dll
+C:\Users\Ivan\Library\CadastroLivro\bin\Debug\net5.0\CadastroLivro.pdb
+C:\Users\Ivan\Library\CadastroLivro\obj\Debug\net5.0\CadastroLivro.csprojAssemblyReference.cache
+C:\Users\Ivan\Library\CadastroLivro\obj\Debug\net5.0\CadastroLivro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\Library\CadastroLivro\obj\Debug\net5.0\CadastroLivro.AssemblyInfoInputs.cache
+C:\Users\Ivan\Library\CadastroLivro\obj\Debug\net5.0\CadastroLivro.AssemblyInfo.cs
+C:\Users\Ivan\Library\CadastroLivro\obj\Debug\net5.0\CadastroLivro.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Library\CadastroLivro\obj\Debug\net5.0\CadastroLivro.dll
+C:\Users\Ivan\Library\CadastroLivro\obj\Debug\net5.0\ref\CadastroLivro.dll
+C:\Users\Ivan\Library\CadastroLivro\obj\Debug\net5.0\CadastroLivro.pdb
+C:\Users\Ivan\Library\CadastroLivro\obj\Debug\net5.0\CadastroLivro.genruntimeconfig.cache
